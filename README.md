@@ -11,3 +11,7 @@ Some links to various functional Javascript articles and some learning examples
 [Functional Programming in Javascript - Youtube](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
 
 [Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/)
+
+[Hoogle - Function Search Engine](https://www.haskell.org/hoogle/)
+
+
