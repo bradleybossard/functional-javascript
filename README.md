@@ -14,4 +14,8 @@ Some links to various functional Javascript articles and some learning examples
 
 [Hoogle - Function Search Engine](https://www.haskell.org/hoogle/)
 
+[Egghead.io - React](https://egghead.io/lessons/react-hello-world-first-component)
 
+[A Cartoon Guide to Flux](https://code-cartoons.com/a-cartoon-guide-to-flux-6157355ab207)
+
+[The Case For Flux](https://medium.com/@dan_abramov/the-case-for-flux-379b7d1982c6)
